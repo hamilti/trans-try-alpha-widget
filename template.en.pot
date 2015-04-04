@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: index.html:133
+msgid "{{ courses[selectedID].course_type }} / {{ courses[selectedID].contact }}"
+msgstr ""
+
+#: index.html:132
+msgid "Contact Course Host"
+msgstr ""
+
+#: index.html:38
+msgid "Country"
+msgstr ""
+
+#: index.html:29
+msgid "Find an Alpha"
+msgstr ""
+
+#: index.html:128
+msgid "Sending&hellip;"
+msgstr ""
+
+#: index.html:44
+msgid "Start in the next:"
+msgstr ""
+
+#: index.html:137
+#: index.html:143
+#: index.html:150
+msgid "This field is required."
+msgstr ""
+
+#: index.html:144
+msgid "This is not a valid email address."
+msgstr ""
+
+#: index.html:32
+msgid "Town/Postcode"
+msgstr ""
+
+#: index.html:142
+msgid "Your E-mail Address"
+msgstr ""
+
+#: index.html:149
+msgid "Your Message"
+msgstr ""
+
+#: index.html:136
+msgid "Your Name"
+msgstr ""
